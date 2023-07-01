@@ -120,7 +120,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY](https://github.com
 
 ###
 
-<h2 align="center">Project Link: [https://github.com/Matthieu-Vachet/Projet-2-openclassrooms-Integrateur_Web](https://github.com/Matthieu-Vachet/Projet-2-openclassrooms-Integrateur_Web)</h2>
+<h2 align="center">Project Link: https://github.com/Matthieu-Vachet/Projet-2-openclassrooms-Integrateur_Web </h2>
 
 ###
 
